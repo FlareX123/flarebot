@@ -4,7 +4,7 @@ const { Client, Intents, MessageActionRow, MessageSelectMenu, MessageEmbed } = r
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
 
 // Replace 'YOUR_BOT_TOKEN' with your actual bot token
-const TOKEN = 'YOUR_BOT_TOKEN';
+const TOKEN = 'MTI2MjA3NjA5NTM0ODYwNTEwMA.GHHyxU.06RDotuF_CpXBslFQYR8NorTICdLXJXLZ8zHec';
 const CHANNEL_ID = '1254457237347373067'; // Replace with your specific channel ID
 
 // Event: When the bot is ready
