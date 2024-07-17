@@ -13,7 +13,7 @@
     "discord.js": "^14.15.3"
   }
   "scripts": {
-  "start": "node yourMainFile.js"
+  "start": "node index.js"
 }
 
 }
